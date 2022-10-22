@@ -55,7 +55,7 @@ if (hard.equalsIgnoreCase("coffin")){
 score+=8;
 }
 else {
-	JOptionPane.showMessageDialog(null, "HA HA! I KNEW YOU WOUDN'T GET THIS RIGHT! WELL, TOO BAD!");
+	JOptionPane.showMessageDialog(null, "HA HA! I KNEW YOU WOUDN'T GET THIS RIGHT! THE ANSWER WAS 'coffin'!WELL, TOO BAD!");
 score-=8;
 }
 
